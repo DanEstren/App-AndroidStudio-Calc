@@ -1,4 +1,4 @@
-Certo! Vou explicar o código inteiro do `MainActivity.kt` por partes, detalhando cada seção passo a passo para que você entenda como ele funciona e como as partes se conectam para criar uma calculadora funcional em Kotlin para Android. Vou dividir o código em blocos lógicos e explicar cada um de forma clara e completa.
+### Explicação do Código por Partes
 
 ---
 
